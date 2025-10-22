@@ -32,7 +32,7 @@
     <img src="" alt="ícono" style="width:64px;height:64px;border-radius:8px;background:linear-gradient(135deg,var(--accent),#16b3ff)">
     <div>
       <h1>Línea de tiempo interactiva — La Conquista (1518 → 13 de agosto de 1521)</h1>
-      <div class="meta">Estilo: profesional pero hecha por un estudiante de 15 años. Contiene 10+ acontecimientos ilustrados y explicados.</div>
+      <div class="meta"></div>
     </div>
   </header>
 
